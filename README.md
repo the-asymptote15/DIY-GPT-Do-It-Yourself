@@ -53,14 +53,6 @@ Welcome to **From Bi-grams to GPT**, a repository that explores the evolution of
      ```bash
      python gpt.py
      ```
-
-## 📊 Model Comparison
-
-| Model              | Context Length | Parameters | Training Time | Output Quality           |
-| ------------------ | -------------- | ---------- | ------------- | ------------------------ |
-| **Bigram Model**   | 1 token        | Very Few   | ⚡ Super Fast  | Basic word prediction    |
-| **GPT-like Model** | 256 tokens     | Millions   | 🕒 Slower     | Coherent text generation |
-
 ## 🤖 Future Enhancements
 
 - Train on larger datasets
