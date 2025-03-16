@@ -61,12 +61,6 @@ Welcome to **From Bi-grams to GPT**, a repository that explores the evolution of
 | **Bigram Model**   | 1 token        | Very Few   | ⚡ Super Fast  | Basic word prediction    |
 | **GPT-like Model** | 256 tokens     | Millions   | 🕒 Slower     | Coherent text generation |
 
-## 🎯 Example Generated Output
-
-After training, the GPT model can generate text like:
-
-> *"To be or not to be, that is the question, whether 'tis nobler in the mind to suffer..."*
-
 ## 🤖 Future Enhancements
 
 - Train on larger datasets
